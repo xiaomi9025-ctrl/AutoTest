@@ -1,7 +1,11 @@
 iiiiiii
 876546789"这是需要合并的内容"
+<<<<<<< HEAD
 个master分支上内容,这个是mergedemo分支上的内容
 合并保存
 回退1
 回退2
 
+这个是mergedemo分支上的内容
+好复杂
+>>>>>>> mergedemo
